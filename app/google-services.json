@@ -1,52 +1,45 @@
 {
   "project_info": {
-    "project_number": "549167445435",
-    "firebase_url": "https://productcatalogf18.firebaseio.com",
-    "project_id": "productcatalogf18",
-    "storage_bucket": "productcatalogf18.appspot.com"
+    "project_number": "849103572362",
+    "firebase_url": "https://productcatalog-94a80.firebaseio.com",
+    "project_id": "productcatalog-94a80",
+    "storage_bucket": "productcatalog-94a80.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:549167445435:android:aadfeba8c26d67fc",
+        "mobilesdk_app_id": "1:849103572362:android:6aaca8a8eddeafa4448c73",
         "android_client_info": {
           "package_name": "mgarzon.createbest.productcatalog"
         }
       },
       "oauth_client": [
         {
-          "client_id": "549167445435-bqkrnvemam2vlsbvo12db9e8f7o4kt2o.apps.googleusercontent.com",
+          "client_id": "849103572362-ircis28dcf1oiuif3em033pmpqa34qd2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "mgarzon.createbest.productcatalog",
-            "certificate_hash": "94a15cb9b346e4f7005039f06009b38c5c518158"
+            "certificate_hash": "2f9a35e6cb4fb214b87123bc358e72bb7ed722ad"
           }
         },
         {
-          "client_id": "549167445435-oa6l951d32j9h3vqpa3vk2vd757in4ui.apps.googleusercontent.com",
+          "client_id": "849103572362-k1gn1cj58pp2sp90ak6f4574tn7c8hf2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBdcbJw4tB9eb0o9w1IcuCP6Pap_nphWPc"
+          "current_key": "AIzaSyDCq0rRkjlJf61YVOhOZctzUcfy9Jzod7Q"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "549167445435-oa6l951d32j9h3vqpa3vk2vd757in4ui.apps.googleusercontent.com",
+              "client_id": "849103572362-k1gn1cj58pp2sp90ak6f4574tn7c8hf2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
